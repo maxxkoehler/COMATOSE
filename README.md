@@ -7,3 +7,7 @@ Max Koehler and Stefan M. Goetz<br>
 ## MATLAB
 
 The provided files are meant to be opened and modified with MATLAB App-Designer.
+
+## Required Software Packages
+
+To run comatose, Chebfun needs to be installed: https://github.com/chebfun/chebfun
